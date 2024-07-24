@@ -4,7 +4,7 @@ Created using MERN Stack with Redux
 ## Email & Password for Demo
 
 ```
-abc234@gmail.com
+abc123@gmail.com
 pass - 1234
 ```
 
