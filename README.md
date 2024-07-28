@@ -24,7 +24,7 @@ MONGO_URI= Mongo Uri
 JWT_SECRET= JWT Key
 ```
 
-## Features
+## Features : 
 
 - [x] Register/Login Screens
 - [x] Student Details
